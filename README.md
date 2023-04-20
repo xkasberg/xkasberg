@@ -1,6 +1,6 @@
 ### 
 
-![](https://leetcard.jacoblin.cool/xkasberg?ext=heatmap)
+![](https://leetcard.jacoblin.cool/xkasberg?hide=ranking,ext=heatmap)
 
 <!--
 **xkasberg/xkasberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
